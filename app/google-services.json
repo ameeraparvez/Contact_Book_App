@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "707400962789",
+    "firebase_url": "https://contactbook-2bf0f-default-rtdb.firebaseio.com",
+    "project_id": "contactbook-2bf0f",
+    "storage_bucket": "contactbook-2bf0f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:707400962789:android:c1bd6a751edbc3959aba0c",
+        "android_client_info": {
+          "package_name": "com.example.contactbook"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDu1Hqx-77CFOnTpgEob_04Q_hBoIcgicY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
